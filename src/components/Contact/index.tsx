@@ -1,6 +1,13 @@
+"use client"
+import { useState } from 'react'
 import NewsLatterBox from "./NewsLatterBox";
 
 const Contact = () => {
+
+  const [name, setName] = useState('')
+  const [email, setEmail] = useState('')
+  const [message, setMessage] = useState('')
+
   return (
     <section id="contact" className="overflow-hidden py-16 md:py-20 lg:py-28">
       <div className="container">
@@ -30,6 +37,8 @@ const Contact = () => {
                       <input
                         type="text"
                         placeholder="Enter your name"
+                        value={name}
+                        onChange={(e) => setName(e.target.value)}
                         className="border-stroke w-full rounded-sm border bg-[#f8f8f8] px-6 py-3 text-base text-body-color outline-none focus:border-primary dark:border-transparent dark:bg-[#2C303B] dark:text-body-color-dark dark:shadow-two dark:focus:border-primary dark:focus:shadow-none"
                       />
                     </div>
@@ -45,6 +54,8 @@ const Contact = () => {
                       <input
                         type="email"
                         placeholder="Enter your email"
+                        value={email}
+                        onChange={(e) => setEmail(e.target.value)}
                         className="border-stroke w-full rounded-sm border bg-[#f8f8f8] px-6 py-3 text-base text-body-color outline-none focus:border-primary dark:border-transparent dark:bg-[#2C303B] dark:text-body-color-dark dark:shadow-two dark:focus:border-primary dark:focus:shadow-none"
                       />
                     </div>
@@ -61,6 +72,8 @@ const Contact = () => {
                         name="message"
                         rows={5}
                         placeholder="Enter your Message"
+                        value={message}
+                        onChange={(e) => setMessage(e.target.value)}
                         className="border-stroke w-full resize-none rounded-sm border bg-[#f8f8f8] px-6 py-3 text-base text-body-color outline-none focus:border-primary dark:border-transparent dark:bg-[#2C303B] dark:text-body-color-dark dark:shadow-two dark:focus:border-primary dark:focus:shadow-none"
                       ></textarea>
                     </div>

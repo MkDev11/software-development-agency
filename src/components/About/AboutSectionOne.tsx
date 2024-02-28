@@ -24,8 +24,10 @@ const AboutSectionOne = () => {
           <div className="-mx-4 flex flex-wrap items-center">
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
-                title="Crafted for Startup, SaaS and Business Sites."
-                paragraph="The main ‘thrust’ is to focus on educating attendees on how to best protect highly vulnerable business applications with interactive panel discussions and roundtables."
+                title="Refreshingly Unique Company About."
+                paragraph="CodeMonster is a registered and trusted company that specializes in delivering top-quality websites and apps to clients. Having completed over 50+ websites and 29+ apps to date, we have an established track record of excellence in our field.
+                Our goal is to help businesses establish a digital presence that exceeds their expectations. We take pride in our unique approach and meticulous attention to detail, which ensures that every website and app we create is tailored to meet our clients' specific needs.
+                Our team of experts is committed to providing personalized solutions that cater to the unique requirements of each business. We understand that every business is different, which is why we take the time to listen to our clients' needs and provide customized solutions."
                 mb="44px"
               />
 
@@ -35,15 +37,15 @@ const AboutSectionOne = () => {
               >
                 <div className="mx-[-12px] flex flex-wrap">
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Premium quality" />
-                    <List text="Tailwind CSS" />
-                    <List text="Use for lifetime" />
+                    <List text="Business Strategy" />
+                    <List text="Website Development" />
+                    <List text="Marketing and Reporting" />
                   </div>
 
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Next.js" />
-                    <List text="Rich documentation" />
-                    <List text="Developer friendly" />
+                    <List text="Mobile App Development" />
+                    <List text="Email Marketing" />
+                    <List text="Copy Writing" />
                   </div>
                 </div>
               </div>
@@ -52,13 +54,13 @@ const AboutSectionOne = () => {
             <div className="w-full px-4 lg:w-1/2">
               <div className="relative mx-auto aspect-[25/24] max-w-[500px] lg:mr-0">
                 <Image
-                  src="/images/about/about-image.svg"
+                  src="/images/about/about-1.png"
                   alt="about-image"
                   fill
                   className="mx-auto max-w-full drop-shadow-three dark:hidden dark:drop-shadow-none lg:mr-0"
                 />
                 <Image
-                  src="/images/about/about-image-dark.svg"
+                  src="/images/about/about-1.png"
                   alt="about-image"
                   fill
                   className="mx-auto hidden max-w-full drop-shadow-three dark:block dark:drop-shadow-none lg:mr-0"
