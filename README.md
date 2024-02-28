@@ -1,46 +1,25 @@
-# Startup - Free Next.js Startup Website Template
+# CodeMonster
 
-Startup free, open-source, and premium-quality startup website template for Next.js comes with everything you need to launch a startup, business, or SaaS website, including all essential sections, components, and pages.
-
-If you're looking for a high-quality and visually appealing, feature-rich Next.js Template for your next startup, SaaS, or business website, this is the perfect choice and starting point for you!
+CodeMonster is a Product Development company with a pool of experienced and inherently problem-solvers as developers, designers and product managers.
 
 ### ✨ Key Features
-- Crafted for Startup and SaaS Business
-- Next.js 13 and Tailwind CSS
-- All Essential Business Sections and Pages
-- High-quality and Clean Design
-- Dark and Light Version
-- TypeScript Support
-and Much More ...
+  - BLOCKCHAIN DEVELOPMENT
 
-### [🔥 Get Startup Pro](https://nextjstemplates.com/templates/saas-starter-startup)
-
-[![Startup Pro](https://cdn.nextjstemplates.com/Startup-Pro---Next.js-Starter-Template-for-SaaS-Startups-282e26f7-f543-4ae4-a777-ac306c08cce8.png)](https://nextjstemplates.com/templates/saas-starter-startup)
-
-Startup Pro - Expertly crafted for fully-functional, high-performing SaaS startup websites. Comes with with Authentication, Database, Blog, and all the essential integrations necessary for SaaS business sites.
-
-
-### [🚀 View Free Demo](https://startup.nextjstemplates.com/)
-
-### [🚀 View Pro Demo](https://startup-pro.nextjstemplates.com/)
-
-### [📦 Download](https://nextjstemplates.com/templates/startup)
-
-### [🔥 Get Pro](https://nextjstemplates.com/templates/saas-starter-startup)
-
-### [🔌 Documentation](https://nextjstemplates.com/docs)
-
-### ⚡ Deploy Now
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FNextJSTemplates%2Fstartup-nextjs)
-
-[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/NextJSTemplates/startup-nextjs)
-
-
-### 📄 License
-Startup is 100% free and open-source, feel free to use with your personal and commercial projects.
-
-### 💜 Support
-If you like the template, please star this repository to inspire the team to create more stuff like this and reach more users like you!
-
-### ✨ Explore and Download - Free [Next.js Templates](https://nextjstemplates.com)
+    With Our industry-rich experience, We create Blockchain-based products that are both robust and scalable. We assemble a team of industry professionals to ensure that your product becomes 'viral'
+  - ANDROID / IOS APP DEVELOPMENT
+    
+    At CodeMonster, we excel in delivering top-tier mobility experiences. With our skilled iOS app developers passionate about all things Apple and our adept full-stack Android developers, we guarantee outstanding results for your projects.
+  - SHOPIFY DEVELOPMENT
+    
+    Whether you're looking for a new online store, migrating from another platform or need a design change to compliment your branding, we do it all.
+  - UI/UX DESIGNING
+    
+    Our UI/UX design and development services are focused on creating interfaces that make every digital interaction a delightful user experience.
+  - ICO
+    
+    If a multi-million dollar ICO is what you need, CodeMonster is here. We contribute a unique blend of experience and knowledge of how apps function, other ICO issues.
+  - IOT
+    
+    You can use connected machines, predictive analytics, and sensor technologies to change your operations with the help of the CodeMonster's team.
+  
+  and Much More ...
