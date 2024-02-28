@@ -4,7 +4,7 @@ import Contact from "@/components/Contact";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Contact",
+  title: "Contact | CodeMonster",
   description: "This is Contact Page for CodeMonster",
   // other metadata
 };
