@@ -15,15 +15,64 @@ const menuData: Menu[] = [
   },
   {
     id: 33,
+    title: "Projects",
+    path: "/projects",
+    newTab: false
+  },
+  {
+    id: 3,
     title: "Blog",
     path: "/blog",
     newTab: false,
   },
   {
-    id: 3,
-    title: "Contact Us",
-    path: "/contact",
+    id: 4,
+    title: "Services",
     newTab: false,
-  }
+    submenu: [
+      {
+        id: 41,
+        title: "Blockchain Development",
+        path: "/services/blockchain",
+        newTab: false
+      },
+      {
+        id: 42,
+        title: "Mobile App Development",
+        path: "/services/blockchain",
+        newTab: false
+      },
+      {
+        id: 43,
+        title: "Web Development",
+        path: "/services/blockchain",
+        newTab: false
+      },
+      {
+        id: 44,
+        title: "Shopify Development",
+        path: "/services/blockchain",
+        newTab: false
+      },
+      {
+        id: 45,
+        title: "UI/UX Design",
+        path: "/services/blockchain",
+        newTab: false
+      },
+      {
+        id: 46,
+        title: "IoT",
+        path: "/services/blockchain",
+        newTab: false
+      },
+      {
+        id: 47,
+        title: "Generative AI",
+        path: "/services/blockchain",
+        newTab: false
+      },
+    ]
+  },
 ];
 export default menuData;
