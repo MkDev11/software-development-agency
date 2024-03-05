@@ -143,8 +143,9 @@ const Header = () => {
                             >
                               {menuItem.submenu.map((submenuItem, index) => (
                                 <Link
-                                  href={submenuItem.path}
+                                  href={submenuItem.id === 41 ? submenuItem.path : ""}
                                   key={index}
+                                  title={submenuItem.id === 41 ? "" : "Coming soon..."}
                                   className="block rounded py-2.5 text-sm text-dark hover:text-primary dark:text-white/70 dark:hover:text-white lg:px-3"
                                 >
                                   {submenuItem.title}
