@@ -7,7 +7,7 @@ const blogData: Blog[] = [
     paragraph:
       "A job market platform which connects talents with employers - React, Typescript, Tailwind, Redux, and Serverless lambda",
     image: "/images/projects/blog-01.jpg",
-    tags: ["Healthcare"],
+    tags: ["Job Market Platform"],
     link: "https://outdefine.com"
   },
   {
@@ -15,7 +15,7 @@ const blogData: Blog[] = [
     title: "Qubinets",
     paragraph:
       "A website that offers a platform for building and deploying data environments on the cloud using open source tools - PHP, Tailwind CSS",
-    tags: ["Healthcare"],
+    tags: ["AI Service"],
     image: "/images/projects/blog-02.jpg",
     link: "https://qubinets.com/"
   },
@@ -25,7 +25,7 @@ const blogData: Blog[] = [
     paragraph:
       "A website that provides a platform for business to collect and respond to customer feedback in real time",
     image: "/images/projects/blog-03.jpg",
-    tags: ["Healthcare"],
+    tags: ["Communication"],
     link: "https://realtimefeedback.com"
   },
   {
@@ -34,7 +34,7 @@ const blogData: Blog[] = [
     paragraph:
       "A website that provides a free online ordering, delivery, and marketing platform for independent restaurants.",
     image: "/images/projects/blog-04.jpg",
-    tags: ["Marketing"],
+    tags: ["Food Delivery"],
     link: "https://owner.com"
   },
   {
@@ -61,7 +61,7 @@ const blogData: Blog[] = [
     paragraph:
       "A website that provides hardscaping and stone work design and installation services in Connecticut. - Next.js, Node.js and AWS",
     image: "/images/projects/blog-07.jpg",
-    tags: [""],
+    tags: ["Landscaping"],
     link: "https://jdlandscaping.net/"
   },
   {
