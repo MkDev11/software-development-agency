@@ -204,7 +204,7 @@ const Footer = () => {
                       role="button"
                       className="mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
                     >
-                      hello@codemonster.co
+                      
                     </p>
                   </li>
 
@@ -213,7 +213,7 @@ const Footer = () => {
                       role="button"
                       className="mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
                     >
-                      +1 (406)-203-4555
+                      
                     </p>
                   </li>
                 </ul>
